@@ -20,7 +20,7 @@ insert into ActivityLog(log_id, user_id,activity_type, timestamps) values(1 , 1,
                                                                          (11 , 3 ,'purchase', '2023-03-21 03:05:30' ),
                                                                          (12,  1 , 'login',   '2023-04-11 17:30:20'),
                                                                          (13 , 2 , 'login' ,   '2023-05-17 13:45:00' ),
-																		                                     (14 , 3 ,'search',    '2023-06-22 01:40:02' ),
+	                                                                 (14 , 3 ,'search',    '2023-06-22 01:40:02' ),
                                                                          (15,  1 ,'wishlist',  '2023-06-07 07:08:32' );
 
 
